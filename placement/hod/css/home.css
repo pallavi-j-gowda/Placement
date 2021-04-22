@@ -1,0 +1,69 @@
+/* body section*/
+
+body
+{
+color:black;
+font-family: 'Noto Sans JP', sans-serif;
+
+}
+h1
+{  
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+/* nav section*/
+
+
+.navbar
+{
+    padding-bottom: 1rem;
+    font-family: 'Noto Sans JP', sans-serif;
+    
+}
+.nav-image
+{
+    width: 5%;
+}
+/* feature section*/
+
+
+.feature-img
+{
+    width: 90%;
+    height: 5%;
+    margin: auto;
+    padding-top: 8%;
+    padding-bottom: 6%;
+}
+
+/* company section*/
+
+#com
+{
+    padding: 1% 5%;
+}
+
+.com-img
+{
+    width: 70%;
+    height: 70%;
+    margin: auto;
+    padding: 2% 20%;
+
+}
+/* tastinomial */
+.testimg
+{
+    display: inline;
+}
+/* contact section*/
+#contact
+{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}

@@ -1,0 +1,82 @@
+/* body section*/
+
+body
+{
+color:black;
+font-family: 'Noto Sans JP', sans-serif;
+}
+h1
+{  
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+hr
+{
+    border-style: dotted none none;
+    border-color: rgba(0, 0, 0, 0.329);
+    border-width: 10px;
+    width: 5%;
+    margin-top: 20px;
+}
+/*section*/
+
+.color-section
+{
+    background-color: white;
+    color: black;
+
+}
+.white-secttion
+{
+ background-color: white;
+ color: black;
+}
+
+/* nav section*/
+
+
+.navbar
+{
+    padding-bottom: 1rem;
+    font-family: 'Noto Sans JP', sans-serif;
+    
+}
+.nav-image
+{
+    width: 5%;
+}
+.par
+{
+ padding-top: 20px;
+ text-align: center;
+}
+
+.img1{
+    width: 70%;
+    height: 30%;
+    padding: 2% 20%;
+    
+}
+/* pic section*/
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }

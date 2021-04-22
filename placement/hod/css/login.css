@@ -1,0 +1,44 @@
+body {font-family: Arial, Helvetica, sans-serif;text-align: center;}
+.form {border: 3px solid #f1f1f1; border-radius:30px ;margin-top: 90px; width: 500px; height: 50%;}
+
+
+.page
+{
+margin: auto;
+text-align: center;
+width: 600px;
+height: 500px;
+border-radius: 90px;
+background-color: gainsboro;
+}
+
+img{
+  border-radius: 50%;
+}
+
+
+.box {
+  width: 90%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  border-radius: 30px;
+  text-align: center;
+}
+
+.box1 {
+    width: 50%;
+    padding: 12px 20px;
+    margin:2% 25%;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    text-align: center;
+    border-radius: 30px;
+    padding: 14px;
+    background-color: gainsboro;
+    }
+  
+  
